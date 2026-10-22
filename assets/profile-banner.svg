@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Reka Bytes</title>
+  <desc id="description">Web products and tools for builders. Khairul Anuar, based in Malaysia. A dark green banner with cream lettering and lime accents.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#b5c6b9" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="16" fill="#101b19"/>
+  <path d="M744 0H1184Q1200 0 1200 16V344Q1200 360 1184 360H744Z" fill="url(#grid)"/>
+  <path d="M744 0V360" stroke="#34443d"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="62" cy="52" r="15" fill="#b1ff47"/>
+    <text x="62" y="58" text-anchor="middle" font-size="18" font-weight="700" fill="#101b19">R</text>
+    <text x="89" y="58" font-size="17" font-weight="700" letter-spacing="0.4" fill="#f0ecdf">REKA BYTES</text>
+    <text x="48" y="148" font-size="58" font-weight="700" letter-spacing="-2" fill="#f0ecdf">Web products.</text>
+    <text x="48" y="215" font-size="58" font-weight="700" letter-spacing="-2" fill="#b1ff47">Tools for builders.</text>
+    <text x="50" y="259" font-size="18" fill="#b9c4bb">Khairul Anuar</text>
+  </g>
+  <g font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="1.2">
+    <text x="50" y="319" fill="#8faaa0">BASED IN MALAYSIA</text>
+    <text x="790" y="58" fill="#8faaa0">SELECTED WORK / 01</text>
+    <text x="790" y="319" fill="#8faaa0">REKA-BYTES.MY</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#f0ecdf">
+    <text x="822" y="128">Mokara</text>
+    <text x="822" y="176">Hibiscus</text>
+    <text x="822" y="224">Omni-graph</text>
+    <text x="822" y="272">Agent Skills</text>
+  </g>
+  <g fill="none" stroke="#b1ff47" stroke-width="1.5">
+    <path d="M791 115H803V127H791Z"/>
+    <path d="M791 163L803 169L791 175"/>
+    <path d="M791 217L803 211M791 217L803 223"/>
+    <circle cx="791" cy="217" r="2.5" fill="#101b19"/>
+    <circle cx="803" cy="211" r="2.5" fill="#101b19"/>
+    <circle cx="803" cy="223" r="2.5" fill="#101b19"/>
+    <path d="M795 259L789 265L795 271M801 259L807 265L801 271"/>
+  </g>
+</svg>
