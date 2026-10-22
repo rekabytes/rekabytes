@@ -1,5 +1,8 @@
 ![Reka Bytes. Web products and tools for builders. Built in Malaysia.](assets/profile-banner.svg)
 
+<!-- ACTIVITY: generated daily by .github/workflows/activity.yml -->
+[![GitHub contribution heatmap and activity overview for the past year](assets/activity.svg)](https://github.com/rekabytes?tab=overview)
+
 # Hi, I'm Khairul.
 
 I'm a developer based in Malaysia, building [Mokara](https://mokara.my) and open-source tools under [Reka Bytes](https://reka-bytes.my).
