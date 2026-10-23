@@ -1,5 +1,8 @@
 ![Reka Bytes. Web products and tools for builders. Built in Malaysia.](assets/profile-banner.svg)
 
+[![Download ATS CV as PDF](assets/download-ats-cv.svg)](https://github.com/rekabytes/rekabytes/raw/refs/heads/main/cv/Khairul_Anuar_Aliasak_ATS_CV.pdf)
+[![Download full resume as PDF](assets/download-resume.svg)](https://github.com/rekabytes/rekabytes/raw/refs/heads/main/cv/Khairul_Anuar_Aliasak_Full_Resume.pdf)
+
 <!-- ACTIVITY: generated daily by .github/workflows/activity.yml -->
 [![GitHub contribution heatmap and activity overview for the past year](assets/activity.svg)](https://github.com/rekabytes?tab=overview)
 
